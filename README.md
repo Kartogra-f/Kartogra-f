@@ -19,7 +19,7 @@
   
 <p align='center'>
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/home">
+  <a href="https://twitter.com/Kartograf_er">
     <img src="https://img.shields.io/badge/twitter-C9CBFF.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://kartogra-f.github.io/">

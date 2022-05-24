@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Charting the unknown... 
-                <b><a target="_blank" href="https://github.com/Kartogra-f">I'm Kartografer.</a></b>
+                <b><a target="_blank" href="https://github.com/Kartogra-f">I'm Kartograf.</a></b>
         </samp>
 </h3>
 <br>

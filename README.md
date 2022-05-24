@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Kartogra-f
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Charting the unknown... 
+                <b><a target="_blank" href="https://github.com/Kartogra-f">I'm Kartografer.</a></b>
+        </samp>
+</h3>
+<br>
 
-<!---
-Kartogra-f/Kartogra-f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+        <samp>
+                「 Beginner self-taugher game develeoper. 」
+                <br>
+                <br>
+        </samp>
+</p>
+<p align='center'>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=kartogra-f&theme=rose_pine" height="150"/a> 
+</p>
+  
+<p align='center'>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/home">
+    <img src="https://img.shields.io/badge/twitter-C9CBFF.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>

@@ -8,7 +8,7 @@
 
 <p align="center">
         <samp>
-                「 Beginner self-taugher game develeoper. 」
+                「 Beginner self-taught game develeoper. 」
                 <br>
                 <br>
         </samp>
